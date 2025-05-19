@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <img src="https://images.icon-icons.com/2699/PNG/512/ansible_logo_icon_169596.png" alt="Ansible" width="120" height="70">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ansible.png" alt="Ansible" width="70" height="70">
 </p>
 
 # Ansible summary practice
