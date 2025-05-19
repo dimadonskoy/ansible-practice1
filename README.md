@@ -20,8 +20,8 @@ This project contains practice from page 85 from "Ansible shallow dive pdf"
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/ansible-shallow-dive.git
-    cd ansible-shallow-dive/homework
+    git clone https://github.com/dimadonskoy/ansible-practice1.git
+    cd ansible-practice1
     ```
 
 2. **Install Ansible:**  
