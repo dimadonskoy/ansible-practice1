@@ -1,0 +1,13 @@
+-  hosts: all
+
+   vars:
+     shell_script_content: "echo Hello world !"
+   tasks:
+      - name: Copy content of shell script
+        ansible.builtin.copy: 
+          content: "{{ shell_script_content }}"
+          dest: /tmp/hello.sh
+          mode: '0755'
+      
+      - name: Run shell script on all remotes
+        ansible.builtin.shell: /tmp/hello.sh
