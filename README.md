@@ -1,4 +1,4 @@
-# Ansible summary practice (page 85)
+# Ansible summary practice
 
 ## Overview
 
